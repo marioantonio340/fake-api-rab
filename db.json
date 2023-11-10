@@ -1,0 +1,363 @@
+{
+  "historic":[
+    {
+      "id": 1,
+      "card": {
+        "flag": "Visa",
+        "last4": "4505"
+      },
+      "value": "100.00",
+      "startedAt": "2022-01-01T10:00:00Z",
+      "finishedAt": "2022-01-02T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "card": {
+        "flag": "Mastercard",
+        "last4": "9876"
+      },
+      "value": "75.50",
+      "startedAt": "2022-02-01T08:30:00Z",
+      "finishedAt": "2022-02-01T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "card": {
+        "flag": "American Express",
+        "last4": "1234"
+      },
+      "value": "200.00",
+      "startedAt": "2022-03-01T14:00:00Z",
+      "finishedAt": null
+    },
+    {
+      "id": 4,
+      "card": {
+        "flag": "Discover",
+        "last4": "5678"
+      },
+      "value": "50.00",
+      "startedAt": "2022-04-01T09:30:00Z",
+      "finishedAt": null
+    },
+    {
+      "id": 5,
+      "card": {
+        "flag": "kapa",
+        "last4": "1111"
+      },
+      "value": "80.00",
+      "startedAt": "2022-05-01T10:00:00Z",
+      "finishedAt": "2022-05-02T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "card": {
+        "flag": "Mastercard",
+        "last4": "2222"
+      },
+      "value": "120.50",
+      "startedAt": "2022-06-01T08:30:00Z",
+      "finishedAt": "2022-06-01T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "card": {
+        "flag": "American Express",
+        "last4": "3333"
+      },
+      "value": "150.00",
+      "startedAt": "2022-07-01T14:00:00Z",
+      "finishedAt": null
+    },
+    {
+      "id": 8,
+      "card": {
+        "flag": "Discover",
+        "last4": "4444"
+      },
+      "value": "90.00",
+      "startedAt": "2022-08-01T09:30:00Z",
+      "finishedAt": null
+    },
+    {
+      "id": 9,
+      "card": {
+        "flag": "Visa",
+        "last4": "5555"
+      },
+      "value": "70.00",
+      "startedAt": "2022-09-01T10:00:00Z",
+      "finishedAt": null
+    },
+    {
+      "id": 10,
+      "card": {
+        "flag": "Mastercard",
+        "last4": "6666"
+      },
+      "value": "110.00",
+      "startedAt": "2022-10-01T08:30:00Z",
+      "finishedAt": "2022-10-01T12:00:00Z"
+    }
+  ],
+  "null":[],
+  "docks":[
+    {
+      "id": "1",
+      "address": {
+        "latitude": -18.5819,
+        "longitude": -46.518,
+        "street": "Rua Major Gote",
+        "neighborhood": "Caiçaras",
+        "number": 808,
+        "reference": "Próximo à Praça Central",
+        "city": "Patos de Minas",
+        "state": "MG",
+        "image": [
+          "https://scontent.fpoj1-1.fna.fbcdn.net/v/t31.18172-8/323605_251962754885715_669587218_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7a1959&_nc_ohc=1EfuKAYVQZUAX-ce1Tg&_nc_ht=scontent.fpoj1-1.fna&oh=00_AfAAUVX4_u77YW5H4E9P826MROtg3CV_pytyXUifAZuQyA&oe=655DF5C4",
+          "https://scontent.fpoj1-1.fna.fbcdn.net/v/t39.30808-6/386623307_713042097516664_4132025897529808716_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5iIg86u8f8UAX8v4yXx&_nc_ht=scontent.fpoj1-1.fna&oh=00_AfCMfX3GDi0j8ENB2ZGcopDwR5M2QuBoGVbCMOUSk9XRuQ&oe=653AE55B" ],
+        "placeName": "Unipam - Patos de Minas",
+        "openAt": "2023-09-01T15:42:17.015Z",
+        "closeAt": "2023-09-01T17:27:00.000Z",
+        "observation": null
+      },
+      "dock": {
+        "capacity": 10,
+        "powerbanks": [
+          {
+            "batteryQuantity": 80
+          },
+          {
+            "batteryQuantity": 60
+          },
+          {
+            "batteryQuantity": 40
+          },
+          {
+            "batteryQuantity": 100
+          },
+          {
+            "batteryQuantity": 100
+          }
+        ]
+      },
+      "price": 2.5
+    },
+    {
+      "id": "2",
+      "address": {
+        "latitude": -18.5845,
+        "longitude": -46.525,
+        "street": "Avenida dos Patos",
+        "neighborhood": "Bairro Nobre",
+        "number": 456,
+        "reference": null,
+        "city": "Patos de Minas",
+        "state": "MG",
+        "image": null,
+        "placeName": "Shopping Patos",
+        "openAt": null,
+        "closeAt": null,
+        "observation": "Entrada pelo estacionamento"
+      },
+      "dock": {
+        "capacity": 5,
+        "powerbanks": [
+          {
+            "batteryQuantity": 100
+          },
+          {
+            "batteryQuantity": 100
+          },
+          {
+            "batteryQuantity": 100
+          }
+        ]
+      },
+      "price": 3.0
+    },
+    {
+      "id": "3",
+      "address": {
+        "latitude": -18.5842,
+        "longitude": -46.5175,
+        "street": "Rua das Flores",
+        "neighborhood": "Jardim Primavera",
+        "number": 789,
+        "reference": null,
+        "city": "Patos de Minas",
+        "state": "MG",
+        "image": [ null, "https://img.freepik.com/free-vector/paper-style-white-monochrome-background_52683-66443.jpg?w=1380&t=st=1693935763~exp=1693936363~hmac=e9fc23744d3cd18005a82a93eb7b613516ebf1ec0d42f95bbd2ee9aeda305871"],
+        "placeName": "Escola Jardim Primavera",
+        "openAt": "2023-09-01T17:27:00.000Z",
+        "closeAt": "2023-09-05T18:30:56.000Z",
+        "observation": "Fechado aos domingos"
+      },
+      "dock": {
+        "capacity": 8,
+        "powerbanks": [
+          {
+            "batteryQuantity": 70
+          },
+          {
+            "batteryQuantity": 90
+          },
+          {
+            "batteryQuantity": 50
+          }
+        ]
+      },
+      "price": 2.0
+    },
+    {
+      "id": "4",
+      "address": {
+        "latitude": -18.598077, 
+        "longitude": -46.496654,
+        "street": "Rua das Flores",
+        "neighborhood": "Jardim Primavera",
+        "number": 789,
+        "reference": null,
+        "city": "Patos de Minas",
+        "state": "MG",
+        "image": [ "https://scontent.fpoj1-1.fna.fbcdn.net/v/t39.30808-6/386623307_713042097516664_4132025897529808716_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5iIg86u8f8UAX8v4yXx&_nc_ht=scontent.fpoj1-1.fna&oh=00_AfCMfX3GDi0j8ENB2ZGcopDwR5M2QuBoGVbCMOUSk9XRuQ&oe=653AE55B", "https://scontent.fpoj1-1.fna.fbcdn.net/v/t39.30808-6/386623307_713042097516664_4132025897529808716_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5iIg86u8f8UAX8v4yXx&_nc_ht=scontent.fpoj1-1.fna&oh=00_AfCMfX3GDi0j8ENB2ZGcopDwR5M2QuBoGVbCMOUSk9XRuQ&oe=653AE55B"],
+        "placeName": "Escola Jardim Primavera",
+        "openAt": "2023-09-05T15:51:56.000Z",
+        "closeAt": "2023-09-06T02:51:56.000Z",
+        "observation": "Fechado aos domingos"
+      },
+      "dock": {
+        "capacity": 8,
+        "powerbanks": [
+          {
+            "batteryQuantity": 70
+          },
+          {
+            "batteryQuantity": 90
+          },
+          {
+            "batteryQuantity": 50
+          }
+        ]
+      },
+      "price": 2.0
+    }
+  ] , 
+  "paymentMethod":[
+    {
+      "id": 1,
+      "flag": "visa",
+      "last4": "1234",
+      "description": "Cartão de crédito",
+      "createdAt": "2023-09-09T18:19:43.106Z",
+      "usedAt": "2023-09-09T18:19:43.106Z"
+    },
+    {
+      "id": 2,
+      "flag": "mastercard",
+      "last4": "5678",
+      "description": "Cartão de débito",
+      "createdAt": "2021-07-10T14:45:00Z",
+      "usedAt": "2021-08-25T16:15:00Z"
+    },
+    {
+      "id": 3,
+      "flag": "amex",
+      "last4": "9012",
+      "description": "Cartão corporativo",
+      "createdAt": "2021-09-15T11:30:00Z",
+      "usedAt": "2021-10-20T13:45:00Z"
+    },
+    {
+      "id": 4,
+      "flag": "diners",
+      "last4": "3456",
+      "description": "Cartão de crédito",
+      "createdAt": "2021-11-01T16:00:00Z",
+      "usedAt": "2021-12-15T19:30:00Z"
+    },
+    {
+      "id": 5,
+      "flag": "elo",
+      "last4": "7890",
+      "description": "Cartão de débito",
+      "createdAt": "2022-01-10T10:30:00Z",
+      "usedAt": "2022-02-25T13:00:00Z"
+    },
+    {
+      "id": 6,
+      "flag": "visa",
+      "last4": "2345",
+      "description": "Cartão de crédito",
+      "createdAt": "2022-03-15T15:45:00Z",
+      "usedAt": "2022-04-20T18:00:00Z"
+    },
+    {
+      "id": 7,
+      "flag": "mastercard",
+      "last4": "6789",
+      "description": "Cartão de débito",
+      "createdAt": "2022-05-01T12:00:00Z",
+      "usedAt": "2022-06-15T14:30:00Z"
+    }
+  ],
+  "payment":[
+    {
+      "id": "1234567890",
+      "address": {
+        "latitude": "37.7749",
+        "longitude": "-122.4194",
+        "street": "Main St",
+        "neighborhood": "Downtown",
+        "number": 123,
+        "reference": "Near the park",
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      "value": "10.50",
+      "slot": "3",
+      "card": {
+        "id": "0987654321",
+        "flag": "Visa",
+        "last4": "vDtJc0pIoxAI3u+7CSQ4ZmLJb6Q=",
+        "description": "My Visa card",
+        "createdAt": "2022-01-01T12:00:00Z",
+        "usedAt": "2022-01-02T10:30:00Z"
+      }
+    },
+    {
+      "id": "9876543210",
+      "address": {
+        "latitude": "40.7128",
+        "longitude": "-74.0060",
+        "street": "Broadway",
+        "neighborhood": "Times Square",
+        "number": null,
+        "reference": null,
+        "city": "New York",
+        "state": "NY"
+      },
+      "value": "15.00",
+      "slot": "4",
+      "card": null
+    }
+  ],
+  "rentals": [
+{
+      "id": "1",
+      "address": {
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "street": "Main Street",
+        "neighborhood": "Downtown",
+        "number": 123,
+        "reference": "Near the park",
+        "city": "San Francisco",
+        "state": "California",
+        "placeName": "Cozy Apartment"
+      },
+      "value": 10.5,
+      "startedAt": "2023-10-21T14:35:15.875Z"
+    }]
+}
