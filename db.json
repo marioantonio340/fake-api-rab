@@ -313,7 +313,8 @@
         "number": 123,
         "reference": "Near the park",
         "city": "San Francisco",
-        "state": "CA"
+        "state": "CA",
+        "place_image": "https://user-images.githubusercontent.com/43358964/285230267-a83ca3bb-8f52-4db6-ad9d-934eee7bd59f.jpg"
       },
       "value": "10.50",
       "slot": "3",
